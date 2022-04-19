@@ -44,19 +44,21 @@ npm run order-cake
 npm run list-cakes
 ```
 
-# Details
+## Details
 
 This repo is built following a tutorial published on CircleCI blog under the CircleCI Guest Writer Program.
 
-- Blog post: [Testing Commander.js Command Line Applications][blog]
+- Blog post: Automate testing for Golang Gin-gonic RESTful APIs
 - Author's GitHub profile: [Waweru Mwaura][author]
 
 ### About CircleCI Guest Writer Program
 
-Reviewers: [Ron Powell][ron], [Stanley Ndagi][stan], [Amos Omondi][amos]
+Reviewers: [Ron Powell][ron], [Stanley Ndagi][stan], [Amos Omondi][amos], [Dominic Motuka][dominic], [Olususi Oluyemi][yemiwebby]
 
-[blog]: https://circleci.com/blog/testing-commander.js-command-line-applications/
+[blog]: https://circleci.com/blog/making-http-requests-with-axios/
 [author]: https://github.com/mwaz
 [ron]: https://github.com/ronpowelljr
 [stan]: https://github.com/NdagiStanley
 [amos]: https://github.com/amos-o
+[dominic]: https://github.com/daumie
+[yemiwebby]: https://github.com/yemiwebby
